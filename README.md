@@ -8,3 +8,5 @@
 	- #F8F8F8 - Bakgrund
 	- #0C1B33 - Länkar
 	- #536DFE - Knappar
+
+Kolla in denna JSFiddle för se en slide-in meny https://jsfiddle.net/eaqxgbk7/
